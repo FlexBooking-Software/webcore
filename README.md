@@ -1,2 +1,2 @@
-# webcore
-PHP Framework
+# WebCore
+PHP Framework used for FlexBook project
